@@ -11,7 +11,7 @@ Video presentación: https://www.youtube.com/watch?v=cepeTPRUSSU
 
 ## 📌 Descripción
 
-Este proyecto forma parte de un trabajo integrador de la materia **Programación I**.  
+Este proyecto forma parte del trabajo integrador de la materia **Programación I**.  
 El objetivo es comparar la eficiencia de diferentes algoritmos de ordenamiento implementados en Python, utilizando listas de distintos tamaños y midiendo el tiempo de ejecución de cada uno con la herramienta `timeit`.
 
 Se utilizaron los siguientes algoritmos:
