@@ -1,4 +1,4 @@
-# programacion-1-integrador
+# Integrador de *Programación I*
 repositorio creado para el integrador de Programación 1
 Alumno: Perez Lucio Gabriel - comisión 19
 
